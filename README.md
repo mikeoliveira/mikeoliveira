@@ -1,7 +1,7 @@
 ## Oiii eu sou a Mike Oliveira Costa, apaixonado por Atividades físicas e Desenvolvedor Frontend!
 <div align="center">
   <a href="https://github.com/mikeoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikeoliveira&show_icons=true&theme=github_dark &include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikeoliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeoliveira&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
