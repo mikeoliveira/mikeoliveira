@@ -1,4 +1,6 @@
-## Oi eu sou o Goku! Zueira, eu sou **Mike Oliveira**! Desenvolvedor, atualmente **Frontend**, porém nada impedi de ampliar os horizontes para novos caminhos na tecnologia!
+# Oi eu sou o Goku! 
+## Zueira, eu sou **Mike Oliveira**! 
+### Desenvolvedor, atualmente **Frontend**, porém nada impedi de ampliar os horizontes para novos caminhos na tecnologia!
 
 <div align="center">
   <a href="https://github.com/mikeoliveira">
