@@ -1,4 +1,5 @@
-## Oiii eu sou a Mike Oliveira, apaixonado por Atividades físicas e Desenvolvedor Frontend!
+## Oi eu sou o Goku! Zueira, eu sou **Mike Oliveira**! Desenvolvedor, atualmente **Frontend**, porém nada impedi de ampliar os horizontes para novos caminhos na tecnologia!
+
 <div align="center">
   <a href="https://github.com/mikeoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikeoliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
