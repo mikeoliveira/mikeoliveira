@@ -53,5 +53,5 @@
 <p>My Desktop :computer: <img align="center"height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> </p>
 <p> I love to Swim :swimming_man: and surf :surfing_man:</p>
 <p> The Beach is my favorite place :beach_umbrella: </p>
-<p> For relax, I prefer netflix :tv: and read to books :books: </p>
+<p> For relax, I prefer netflix :tv: or read to books :books: </p>
   
