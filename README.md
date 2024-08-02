@@ -1,5 +1,5 @@
 # Hi, my name is Mike Oliveira!
-### I'm Developer since 2014, currently Front-end, but always ready to learn new technologies!
+### I'm Developer since 2014, currently Front-end, love explorer new technologies and try to use them! rs
 
 <div align="center">
   <a href="https://github.com/mikeoliveira">
